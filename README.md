@@ -46,30 +46,27 @@ The page will reload when you make changes.
 You may also see any lint errors in the console.
 ## Documentations
 
-1. Vite.js:
-Official Website: https://vitejs.dev/  
-Documentation: https://vitejs.dev/guide/
+1. Vite.js:  
+Official Website: https://vitejs.dev/    
+Documentation: https://vitejs.dev/guide/  
 
 
-2. Tailwind CSS:
-Official Website: https://tailwindcss.com/  
-Documentation: https://tailwindcss.com/docs
+2. Tailwind CSS:  
+Official Website: https://tailwindcss.com/    
+Documentation: https://tailwindcss.com/docs  
 
 
-3. Node.js:
-
+3. Node.js:  
 Official website: https://nodejs.org/  
-Documentation: https://nodejs.org/en/docs/
+Documentation: https://nodejs.org/en/docs/  
 
-4. Express.js:
+4. Express.js:  
+Official website: https://expressjs.com/    
+Documentation: https://expressjs.com/en/4x/api.html  
 
-Official website: https://expressjs.com/  
-Documentation: https://expressjs.com/en/4x/api.html
-
-5. React:
-
-Official website: https://reactjs.org/  
-Documentation: https://reactjs.org/docs/
+5. React:  
+Official website: https://reactjs.org/    
+Documentation: https://reactjs.org/docs/  
 ## Support
 
 For support, email rohankolhatkar930@gmail.com.
