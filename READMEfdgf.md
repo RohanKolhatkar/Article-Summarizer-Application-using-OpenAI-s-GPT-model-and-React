@@ -7,9 +7,7 @@ The application uses the OpenAI article summarizer API from rapid-api.com to gen
 You can access this using this link: 
 https://article-sum.netlify.app/
 
-## Tech Stack.
 
-React , Talwind-Css, Vite.js, Node.js and Express.js.
 
 
 
